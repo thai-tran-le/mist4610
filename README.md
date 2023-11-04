@@ -3,11 +3,7 @@ MIST 4610 Project
 
 ## Team name and members:
 
-- Thai Le: 
-- Alvia Pham: 
-- Essex Glowaki: 
-- Kenneth Johnson: 
-- McKenna Sloan: 
+- Thai Le, Alvia Pham, Essex Glowaki, Kenneth Johnson, McKenna Sloan
 
 
 ### Problem description:
