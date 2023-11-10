@@ -3,7 +3,7 @@ MIST 4610 Project
 
 ## Team name and members:
 
-- Thai Le, Alvia Pham, Essex Glowaki, Kenneth Johnson, McKenna Sloan
+- Thai Le, Alvia Pham, Essex Glowaki, Kenneth Johnson, McKenna Sloan, Josh Torres
 
 
 ### Problem description:
@@ -13,7 +13,6 @@ DSC boasts three full-sized soccer fields, a training ground with fitness facili
 
 ## Data Model
 <img width="697" alt="image" src="https://github.com/thai-tran-le/mist4610/assets/148096037/6e125cf1-c5bd-44e5-8d04-b87965b080d2">
-Our team’s data model is based on the different stores Kroger has across the United States. Each store has many relationships with other entities in the table. For example, a store has many transactions, and in those transactions are many items. A store can also make multiple payments to one vendor, and each of those payments would have one invoice. Likewise, a store has many departments, and each of those departments also have relationships with other entities. More specifically, a department can have many inventories, and in each inventory is the quantity of an item (e.g. the Bakery department has cupcakes and cookies, and the quantity of those items are 100 and 50 (respectively)). A department also has many orders, and each order contains many items. Each order is made through one delivery and contains one invoice; however, a vendor can have multiple orders.
 
 
 ## Data Dictionary
