@@ -3,7 +3,12 @@ MIST 4610 Project
 
 ## Team name and members:
 
-- Thai Le, Alvia Pham, Essex Glowaki, Kenneth Johnson, McKenna Sloan, Josh Torres
+- Alvia Pham: https://github.com/chaaugiang/MIST4610.git
+- Essex Glowaki: https://github.com/essexglowaki/MIST4610.git
+- Josh Torres: https://github.com/JoshTorres01/MIST4610.git
+- Kenneth Johnson: https://github.com/Knny-MJ/MIST4610.git
+- McKenna Sloan: https://github.com/mckennasloan24/MIST4610.git
+- Thai Le: https://github.com/thai-tran-le/mist4610.git
 
 
 ### Problem description:
