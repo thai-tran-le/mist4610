@@ -1,5 +1,5 @@
 # Dynamo Soccer Club (DSC)
-MIST 4610 Project
+MIST 4610 Project 1
 
 ## Team name and members:
 
@@ -11,7 +11,7 @@ MIST 4610 Project
 - Thai Le: https://github.com/thai-tran-le/mist4610.git
 
 
-### Problem description:
+### Problem Description:
 Dynamo Soccer Club (DSC) is an established club based in Athens, Georgia. Founded in 1995, we have grown to become one of the premier soccer academies in the state. DSC offers training and competitive opportunities for children aged 4 to 18 and has adult leagues as well. Our mission is to provide the highest standard of soccer education with the aim to nurture talent and instill a love for the sport.
 DSC boasts three full-sized soccer fields, a training ground with fitness facilities, a medical center, a clubhouse with a pro shop, administrative offices, locker rooms, and a snack bar. We offer training sessions, competitive matches, soccer camps during school holidays, and occasional events and workshops. DSC also provides coaching courses for aspiring soccer coaches. 
 
